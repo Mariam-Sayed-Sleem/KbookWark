@@ -1,0 +1,55 @@
+:root{
+    --base-color: linear-gradient(to bottom, #542044, 75%, #e06276);
+    --header-color: #8e3458
+    --text-color: #fdc19d
+    --button-color: linear-gradient(to top right, #542044 25%, #e06276);
+    --button-frame-color: #fdc19d
+    --cards-color: background-image: linear-gradient(to top right, #542044 25%, #e06276);
+    --pagation-color: white
+    --pagation-shade: #fdc19d
+    --next-previous-color: #fdc19d
+}
+
+.lightmode{
+    --base-color: linear-gradient(to bottom, #feddc6, 95%, #e06276);
+    --header-color: #fdc19d
+    --text-color: #542044
+    --button-color: linear-gradient(to bottom, #feddc6, 95%, #e06276);
+    --button-frame-color: #542044
+    --cards-color: background-image: linear-gradient(to top right, #fdc19d 25%, #e06276);
+    --pagation-color: #542044
+    --pagation-shade: #e06276
+    --next-previous-color: #542044
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#switch{
+    height:50px;
+    width:50px;
+    padding: 0;
+    border-radius: 50%;
+    background-color: var(--base-color);
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+#switch svg{
+    fill: var(--next-previous-color)
+}
+#switch svg:last-child{
+    display: none;
+}
+.lightmode #switch svg:first-child{
+    display: none;
+}
+.lightmode #switch svg:last-child{
+    display: block;
+}

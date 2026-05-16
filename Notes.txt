@@ -1,0 +1,48 @@
+Features I want to Add
+1. Changable background color
+2. background Music {Starts automatically, there is a start/stop button, volume control, No skipping in Music, There is 5 Music options}
+3. There Are Four Tabs {Home (Info, Startup, Signin/Login), Main Tab (Bookmarks, Settings, Add new bookmark button), Add New bookmark Tab/pop up (Name, URL, Description, Add button, Image "optional"), Settings (light/dark mode "will learn system once I'm done", Color palettes, accounts)}
+4. Default Bookmarks {Youtube, Facebook, Instagram, etc}
+5. Add and remove option
+6. Light and Dark mods
+7. changable colors {Three palettes from settings}
+8. Animated cards {It goes up, flips to the Description and Button, goes down when other card are clicked/hovered} (I didn't decide yet (┬┬﹏┬┬))
+9. Logo leads to main home Tab
+10. connect to accounts
+
+
+
+Palettes:
+
+1. https://www.pinterest.com/pin/734227545535261826/ {Green}
+2. https://www.pinterest.com/pin/824932856784762098/ {Porple}
+3. https://www.pinterest.com/pin/768074911477027302/ {blue}
+4. https://www.pinterest.com/pin/1088252697475146248/ {Pink}
+5. https://www.pinterest.com/pin/1124985181954305290/ {grey}
+6. https://www.pinterest.com/pin/694117361356010046/ {Beige}
+
+(Low-key, yellow is hard in Mono-gradients, so no Yellow this week! ＞︿＜)
+
+I Aim For:
+1. animated navigation bar as following https://www.pinterest.com/pin/660903314072566689/
+2. Settings Tab ✨
+3. Animated Cards (If hover on Card, it flips to the other side, Front has the Title, Image, Back has the description, and Button)
+4. animated Mascot (Because Why Not? I love them!! I'll make mine in the end if I have time by Ibis paint&Gacha, No one can Stop me!!)
+
+
+Inspiration Credits: (o′┏▽┓｀o) 
+
+
+
+
+(Update!)
+
+I gave up on the color things for now! Light and dark mode will be delayed
+
+(Update 2!)
+I finished the main page, the main structure of the sign up and log in Pages of html
+
+Things to search for:
+1. How to make users input their links
+2. Image scraping {Logos of the websites}
+3. light/dark mode
